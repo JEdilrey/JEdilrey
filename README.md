@@ -15,7 +15,7 @@ React frameworks
 
 
 - 📫 How to reach me ...
-gmail: joshedilrey2004@gmail.com
+
 
 
 
